@@ -1,3 +1,10 @@
+# Environment variables
+.env
+.env.*
+
+# Claude
+CLAUDE.md
+
 # Logs
 logs
 *.log
